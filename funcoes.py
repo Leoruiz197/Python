@@ -25,7 +25,7 @@ def exibir(vazamento):
             print("Senha.....", lista[1])
 
 def buscar(vazamento):
-    busca = input("qual a tag do email?")
+    busca = input("qual o id do email?")
     lista = vazamento.get(busca)
     if lista != None:
         print("\nEmail.....", lista[0])
