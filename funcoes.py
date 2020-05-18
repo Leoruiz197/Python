@@ -12,6 +12,7 @@ def cadastrar(vazamento):
             else:
                 print("erro de entrada, email invalido")
                 check = "S" 
+        check = "S" 
         vazamento[tag] = [
             email,
             input("Senha do email: \n"),
