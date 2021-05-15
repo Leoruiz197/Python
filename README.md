@@ -1,8 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hello.gif" width="30px">
-
-
-
-# Python - Bem Vindos
+# Python - Bem Vindos <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 Este repositório contem códigos, explicações e exercícios para realizar sobre Python, com o objetivo de partilhar conhecimento com alunos e com a comunidade GITHUB
 
@@ -23,5 +19,3 @@ Este repositório contem códigos, explicações e exercícios para realizar sob
 - C++ (Arduino)
 - C
 - PHP
-
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
