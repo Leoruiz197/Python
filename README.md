@@ -11,12 +11,6 @@ Este repositório contem códigos, explicações e exercícios para realizar sob
 
 **Professor** desde 2019
 
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leoruiz197&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true&hide=contribs,prs,issues"/>
-
-
-
-
-
 **Todo o conteúdo nesse repositório** é livre para agregar conhecimento a qualquer pessoa que assim desejar.
 
 ## Linguagens que me interesso
@@ -25,3 +19,7 @@ Este repositório contem códigos, explicações e exercícios para realizar sob
 - C++ (Arduino)
 - C
 - PHP
+
+
+
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leoruiz197&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true&hide=contribs,prs,issues"/>
