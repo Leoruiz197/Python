@@ -1,8 +1,6 @@
 # Python - Bem Vindos <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="30px">
 
-<img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/hello.gif" width="300px">
 Este repositório contem códigos, explicações e exercícios para realizar sobre Python, com o objetivo de partilhar conhecimento com alunos e com a comunidade GITHUB
-
 
 [//]: contributor-faces
 
