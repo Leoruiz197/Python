@@ -14,7 +14,7 @@ Este repositório contem códigos, explicações e exercícios para realizar sob
 
 ## Linguagens que me interesso
 
--Javascript
+- Javascript
 - Python
 - C++ (Arduino)
 - C
